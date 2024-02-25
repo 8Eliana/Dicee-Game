@@ -1,0 +1,14 @@
+:root {
+    --primary-color : #ABC4AA;
+}
+
+body{
+    margin: 0px;
+    background-color: var(--primary-color);
+}
+
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 20px;
+}
